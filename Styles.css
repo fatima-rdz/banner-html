@@ -1,0 +1,27 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.container-fluid {
+	background:#EEEEEE;	
+	color:#3B0809;
+	padding: 20px;
+	text-align: center;
+	height: 150px;
+
+}
+
+.col-lg-4 {
+	
+	color: black;
+	text-align: center;
+	border: 1px solid #610E0F;
+	padding: 20px;
+	border-radius: 10px;
+	background:#BCBCBC;
+}
+
+.jumbotron {
+	
+	background-color:black;
+	color: white;
+}
